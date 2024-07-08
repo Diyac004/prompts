@@ -30,7 +30,7 @@
 
 .main:after {
   content: "";
-  background-image: url("/assets/images/grid.svg");
+  
   z-index: 1;
   position: absolute;
   width: 100%;
@@ -96,7 +96,9 @@
 .green_gradient {
   @apply bg-gradient-to-r from-green-400 to-green-500 bg-clip-text text-transparent;
 }
-
+.red_gradient {
+  @apply bg-gradient-to-r from-purple-950 via-red-700 to-yellow-400 bg-clip-text text-transparent;
+}
 .blue_gradient {
   @apply bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent;
 }
