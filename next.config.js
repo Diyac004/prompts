@@ -5,7 +5,7 @@ const nextConfig = {
     serverComponentsExternalPackages: ["mongoose"],
   },
   images: {
-    domains: ['lh3.googleusercontent.com'],
+    domains: ['lh3.googleusercontent.com'],['https://promptme-git-main-diyac004s-projects.vercel.app']
   },
   webpack(config) {
     config.experiments = {
