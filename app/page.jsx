@@ -8,7 +8,7 @@ const Home = () => (
       <span className='red_gradient text-center'> Real-Life Instances</span>
     </h1>
     <p className='desc text-center'>
-    PromptME is an open-source platform for modern world to discover, create and share their Real-Life experiences and help others in the similar scenearios to make the right decision
+    PromptME is a platform for modern world to discover, create and share their Real-Life experiences and help others in the similar scenearios to make the right decision
     </p>
 
     <Feed />
