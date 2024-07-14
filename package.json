@@ -1,6 +1,7 @@
 {
-  "name": "promptopia",
+  "name": "prompts",
   "version": "0.1.0",
+  "homepage": "https://Diyac004.github.io/prompts/",
   "private": true,
   "scripts": {
     "dev": "next dev",
